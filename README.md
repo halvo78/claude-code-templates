@@ -15,9 +15,6 @@
   </a>
   <br />
   <br />
-  <a href="https://vercel.com/oss">
-  <img alt="Vercel OSS Program" src="https://vercel.com/oss/program-badge.svg" />
-  </a>
   &nbsp;&nbsp;
   <a href="https://get.neon.com/4eCjZDz">
   <img alt="Neon Open Source Program" src="https://img.shields.io/badge/Neon-Open%20Source%20Program-00E599?style=for-the-badge" />
@@ -65,7 +62,6 @@ npx claude-code-templates@latest --skill web-data/search,web-data/scrape,web-dat
 **[Browse All Templates](https://aitmpl.com)** - Interactive web interface to explore and install 100+ agents, commands, settings, hooks, and MCPs.
 
 <img width="1787" height="958" alt="image" src="https://github.com/user-attachments/assets/d84feaa4-f871-4843-bbee-42d8f51b2f21" />
-
 
 ## 🚀 Quick Installation
 
